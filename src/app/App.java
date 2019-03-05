@@ -6,7 +6,7 @@ public class App {
     };
 
     static String[] wwi18sea = {
-        "Ali", "Calo", "Daniel", "Jan", "Jonas", "Mahmoud", "Marcel", "Anton", "Sinan", "Tristan", "Tizian", "Tobias", "Benno", "Katlene"
+        "Ali", "Calo", "Daniel", "Jan", "Jonas", "Mahmoud", "Marcel", "Anton", "Sinan", "Tristan", "Tizian", "Tobias", "Bello", "Katlene"
     };
 
     //static String[] takenPatenKinder = new String[patenKinder.length];
